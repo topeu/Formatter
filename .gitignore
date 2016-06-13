@@ -1,0 +1,10 @@
+# IntelliJ
+Formatter.iml
+/.idea
+/out/
+# Package Files #
+*.jar
+*.war
+*.ear
+
+

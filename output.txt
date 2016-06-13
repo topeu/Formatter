@@ -1,0 +1,24 @@
+
+
+
+while (iReader.hasNext()) {
+    char ch = iReader.read();
+    buffer.append(ch);
+    if (ch=='a') {
+        iWriter.write(buffer.toString().trim() + "\n");
+        buffer.delete(0,buffer.length());
+    }
+    str.balance;
+}
+
+
+
+
+
+
+
+
+
+
+
+
