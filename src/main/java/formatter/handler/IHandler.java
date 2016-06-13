@@ -1,4 +1,4 @@
-package formatter.hander;
+package formatter.handler;
 
 /**
  * Created by admin on 05.06.2016.

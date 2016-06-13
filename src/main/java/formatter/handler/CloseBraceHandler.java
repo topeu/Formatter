@@ -1,4 +1,4 @@
-package formatter.hander;
+package formatter.handler;
 
 
 import formatter.Context;
